@@ -15,8 +15,7 @@ make sure your directory structure looks like this:
 ```
 
 ## Run
-place all images you want to sort inside the `source/` folder.
-and run 
+place all images you want to sort inside the `source/` folder and `run`
 ```bash
 java ImageSorter.java
 ```
