@@ -20,19 +20,21 @@ make sure your directory structure looks like this:
 
 ## Quick Run
 
-clone repo
+1. clone repo
 
 ```bash
 git clone https://github.com/MichaelAgustinn/sorting-documentary-photos.git
 ```
 
-go to folder
+2. go to folder
 
 ```bash
 cd sorting-documentary-photos
 ```
 
-place all images you want to sort inside the `source/` folder and `run`
+3. place all images you want to sort inside the `source/` folder
+
+4. and `run`
 
 ```bash
 java ImageSorter.java
